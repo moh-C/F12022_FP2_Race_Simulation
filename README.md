@@ -10,7 +10,7 @@ Note: RIC and LEC's stints were 2 and 3 laps respectively; Thus, the data isn't 
 
 <b>Jeddah 2022:</b>
 <img src="./Jeddah_RaceSim.jpg">
-RedBull setting the pace in FP2. If the reliability problem is resolved, Max has a good chance of snatching the first win here.
+RedBull setting the pace in FP2. If the reliability problem is resolved, Max has a good chance of snatching his first win here.
 P.S.: Ferrari was unable to do race sims since they hit the wall. Also data of drivers with less than 5 laps (on the same stint) has been discarded.
 
 <hr>
